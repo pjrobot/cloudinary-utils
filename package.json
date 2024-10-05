@@ -1,0 +1,13 @@
+{
+  "name": "cloudinary-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "list-images": "node src/list-images.js"
+  },
+  "dependencies": {
+    "cloudinary": "^2.5.0",
+    "dotenv": "^16.4.5"
+  }
+}
